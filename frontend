@@ -1,0 +1,104 @@
+<html>
+
+    <head>
+
+        <h1>Srcsmic Enginer</h1>
+
+        <form>
+
+            <input type="text"> <br>
+
+            <input type="button" value="Search"> <br>
+
+
+
+        </form>
+
+    </head>
+
+
+
+    <body>
+
+        <!--Upper-->
+
+        <div>
+
+            <a href="#">Home</a>
+
+            <a href="#">videos</a>
+
+            <a href="#">trending</a>
+
+            <a href="#">more</a>
+
+        </div>
+
+        <!--side-->
+
+        <div>
+
+            <a href="#">IPL 2021</a> <br>
+
+            <a href="#">Wholesome</a> <br>
+
+            <a href="#">Bollywood</a><br>
+
+            <a href="#">Doge/cheems</a><br>
+
+            <a href="#">News</a><br>
+
+        </div>
+
+
+
+        <!--posts-->
+
+        <div>
+
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/aHyOK0qZi68"
+
+             title="YouTube video player" 
+
+            frameborder="0" 
+
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+        </iframe>
+
+              
+
+
+
+        <blockquote class="twitter-tweet">
+
+        <p lang="en" dir="ltr">Science Maymay..😳 
+
+        <a href="https://t.co/ifYzW4nB6r">pic.twitter.com/ifYzW4nB6r</a></p>&mdash; 
+
+        Nishant Sharma (@srcsmic_enginer) 
+
+        <a href="https://twitter.com/srcsmic_enginer/status/1341286178444595200?ref_src=twsrc%5Etfw">December 22, 2020</a></blockquote> 
+
+        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+        </div>
+
+
+
+    </body>
+
+
+
+    <!--links for profile-->
+
+    <div>
+
+      <a href="https://twitter.com/srcsmic_enginer?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank"> <img src="twitter.png" width="30" height="30"  alt="twitter"></a> 
+
+      <a href="https://www.facebook.com/profile.php?id=100052916525056" target="_blank"> <img src="facebook.png" width="30" height="30"  alt="facebook"></a>
+
+    </div>
+    
+    
+    </html>
